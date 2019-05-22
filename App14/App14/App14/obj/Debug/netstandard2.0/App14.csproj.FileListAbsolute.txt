@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\App14\App14\App14\bin\Debug\netstandard2.0\App14.deps.json
+C:\Users\Administrator\source\repos\App14\App14\App14\bin\Debug\netstandard2.0\App14.dll
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App14.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App14.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App14.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App14.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\App14\App14\App14\bin\Debug\netstandard2.0\App14.pdb
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App14.dll
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\App14.pdb
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrator\source\repos\App14\App14\App14\obj\Debug\netstandard2.0\MainBefore.xaml.g.cs
